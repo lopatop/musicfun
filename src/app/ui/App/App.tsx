@@ -1,4 +1,4 @@
-import s from "./ui/App/App.module.css"
+import s from "./App.module.css"
 import {Routing} from "@/common/routing";
 import {Header} from "@/common/components";
 
@@ -11,5 +11,4 @@ export const App = () => {
             </div>
         </>
     )
-
 }
